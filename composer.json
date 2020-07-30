@@ -1,0 +1,16 @@
+{
+    "name": "nyanlinhtet/design-pattern-in-php",
+    "description": "\"Design Pattern Implementations\"",
+    "authors": [
+        {
+            "name": "nyanlin-rmg",
+            "email": "nyanlin.rmg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DesignPatternImplementation\\": "src"
+        }
+    },
+    "require": {}
+}
